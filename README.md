@@ -25,7 +25,7 @@
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
 </div><br>
-## 📞 Contact 📞
+📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:applotnals@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
