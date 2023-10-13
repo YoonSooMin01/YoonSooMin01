@@ -31,7 +31,7 @@
     <a href="mailto:applotnals@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
     </a>
-    <a href="[https://open.kakao.com/o/sGFzzbsf](https://open.kakao.com/o/s7qIQqMf)">
+    <a href="https://open.kakao.com/o/s7qIQqMf">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
 </div><br>
